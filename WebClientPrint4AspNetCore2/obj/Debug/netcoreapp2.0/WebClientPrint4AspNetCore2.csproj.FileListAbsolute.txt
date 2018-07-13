@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\bin\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\bin\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\bin\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\bin\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\obj\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\obj\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\obj\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\obj\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\bin\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\obj\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WebClientPrint4AspNetCore2\obj\Debug\netcoreapp2.0\WebClientPrint4AspNetCore2.pdb
