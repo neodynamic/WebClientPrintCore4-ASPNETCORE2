@@ -49,7 +49,7 @@ namespace WebClientPrint4AspNetCore2.Controllers
                 if (trayName == "null") trayName = "";
                 if (paperName == "null") paperName = "";
 
-                cpj.ClientPrinter = new InstalledPrinter(printerName, true, trayName, paperName);
+                cpj.ClientPrinter = new InstalledPrinter(System.Net.WebUtility.UrlDecode(printerName), true, System.Net.WebUtility.UrlDecode(trayName), System.Net.WebUtility.UrlDecode(paperName));
             }
 
             return File(cpj.GetContent(), "application/octet-stream");
