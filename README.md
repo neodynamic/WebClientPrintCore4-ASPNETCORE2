@@ -11,3 +11,11 @@ This ASP.NET Core MVC Website is a sample project to getting you started with We
 
 ## Know How WebClientPrint 4.0 for ASP.NET Core Works
 Refer to the [Online Help Documentation](https://neodynamic.com/Products/Help/WebClientPrintCore4.0/index.html)
+
+## Licensing
+
+**WebClientPrint is a Commercial** product. Licensing model and prices are available [here](https://neodynamic.com/products/printing/raw-data/aspnet-core/buy)
+
+## Support
+
+Tech questions are handled by [Neodynamic Dev Team](https://neodynamic/support)
